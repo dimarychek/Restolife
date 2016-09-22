@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#header {
+    width: 920px;
+    background-color: #9E9E9E;
+    color: #fff;
+    padding: 20px;
+    margin: 0 auto;
+}
+#content {
+    width: 920px;
+    padding: 20px;
+    margin: 20px auto;
+}
